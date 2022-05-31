@@ -1,0 +1,93 @@
+.hospitally{
+    position:relative;
+    top:1.2%;
+    left:7%;
+    font-size:22px;
+    color:#2B3856;
+}
+
+ .contactUs{
+  position:relative;
+    top:-9%;
+    left:77%;
+    font-size:20px;
+    color:black;
+ }
+
+ .signIn{
+     position:relative;
+     top:-15.9%;
+     left:88%;
+     font-size:20px;
+     color:#2B3856;
+
+ }
+
+ .firstHeading{
+     position:relative;
+     top:-3%;
+     left:6.5%;
+     color:#2B3856;
+     font-size:24px;
+ }
+
+ .hr1{
+     position:relative;
+     top:5%;
+     
+ }
+
+ .firstLine{
+     position:relative;
+     left:-29%;
+ }
+
+ .firstParagraph{
+     position:relative;
+     top:1%;
+     left:7%;
+     font-size:32px;
+ }
+
+ .button1{
+    position:relative;
+    top:5%;
+    left:6.5%;
+    background-color:#2B3856;
+     border-radius:5px;
+     color:white;
+     padding: 15px 32px;
+     text-align:center;
+     text-decoration:none;
+     display:inline-block;
+     font-size:16px;
+     margin:4px 2px;
+     cursor:pointer;
+     
+ }
+
+ .button2{
+    position:relative;
+    top:5%;
+    left:7%;
+    width:200px;
+    background-color:white;
+     border-radius:5px;
+     color:#2B3856;
+     padding: 15px 32px;
+     text-align:center;
+     text-decoration:none;
+     display:inline-block;
+     font-size:16px;
+     margin:4px 2px;
+     cursor:pointer;
+     
+ }
+
+ .secondParagraph{
+     position:relative;
+     top:16%;
+     left:7%;
+     font-size:18px;
+ 
+ }
